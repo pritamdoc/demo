@@ -20,7 +20,7 @@ export class AppComponent {
   // {
   //   alert('Hello');
   // }
-
+  checkingngIf=true;
   btnclick()
   {
     alert("You clickesd Me !");
